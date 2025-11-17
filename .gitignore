@@ -1,0 +1,10 @@
+# Misc
+.DS_Store
+.fleet
+.idea
+.venv
+
+# Local env files
+.env
+.env.*
+!.env.example
